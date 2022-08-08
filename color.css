@@ -1,0 +1,48 @@
+p {
+    /*Soft red*/
+    color: hsl(7, 99%, 70%);
+
+   /*Yellow*/
+   color: hsl(51, 100%, 49%);
+
+   /*Dark desaturated cyan (graphic design text)*/
+   color: hsl(167, 40%, 24%);
+
+  /*Dark blue (photography text)*/
+   color: hsl(198, 62%, 26%);
+
+  /*Dark moderate cyan (footer)*/
+   color: hsl(168, 34%, 41%);
+
+/*### Neutral*/
+
+  /*Very dark desaturated blue*/
+   color: hsl(212, 27%, 19%);
+
+  /*Very dark grayish blue*/
+   color: hsl(213, 9%, 39%);
+
+  /*Dark grayish blue*/
+   color: hsl(232, 10%, 55%);
+
+  /*Grayish blue*/
+   color: hsl(210, 4%, 67%);
+
+  /*White*/
+   color: hsl(0, 0%, 100%);
+}
+
+
+.parentt {
+   display: flex
+   flex-direction: row;
+}
+
+#column1, #column2 {
+  width: 50%;
+  height: 100vh;
+}
+
+.image-div img {
+width: ;
+}
